@@ -419,7 +419,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u7B2C\u4E03\u5173"
+  m_Text: Stage 7
 --- !u!222 &193586839
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -925,7 +925,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u7B2C\u56DB\u5173"
+  m_Text: Stage 4
 --- !u!222 &450164530
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -999,7 +999,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u97F3\u4E50"
+  m_Text: Music
 --- !u!222 &485894780
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1543,7 +1543,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u6D4B\u8BD5\u5173"
+  m_Text: Stage 9
 --- !u!222 &849477627
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1617,7 +1617,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u7B2C\u516D\u5173"
+  m_Text: Stage 6
 --- !u!222 &888879021
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3091,7 +3091,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u7B2C\u4E09\u5173"
+  m_Text: Stage 3
 --- !u!222 &1764589075
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3165,7 +3165,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u7B2C\u516B\u5173"
+  m_Text: Stage 8
 --- !u!222 &1809048402
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3239,7 +3239,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u97F3\u6548"
+  m_Text: SFX
 --- !u!222 &1822521887
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3407,7 +3407,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u56DE\u5230\u6E38\u620F"
+  m_Text: Back
 --- !u!222 &1848721934
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3760,7 +3760,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u56DE\u5230\u6E38\u620F"
+  m_Text: Back
 --- !u!222 &2030704679
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3834,7 +3834,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u7B2C\u4E94\u5173"
+  m_Text: Stage 5
 --- !u!222 &2068540458
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3908,7 +3908,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u7B2C\u4E8C\u5173"
+  m_Text: Stage 2
 --- !u!222 &2088613426
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4145,7 +4145,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u7B2C\u4E00\u5173"
+  m_Text: Stage 1
 --- !u!222 &2128438145
 CanvasRenderer:
   m_ObjectHideFlags: 0
