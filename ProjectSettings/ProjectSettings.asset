@@ -11,7 +11,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: Redream
-  productName: PlantsVsZombies
+  productName: MachineBattle
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenStyle: 0
@@ -180,7 +180,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: e4759f913f7dd5944b990ed11f6bf515, type: 3}
+      m_Icon: {fileID: 2800000, guid: dfd50a0e6fea88c48b610dedb1bb12e1, type: 3}
       m_Width: 128
       m_Height: 128
   m_BuildTargetBatching: []
