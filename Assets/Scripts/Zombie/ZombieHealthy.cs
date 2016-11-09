@@ -47,9 +47,9 @@ public class ZombieHealthy : MonoBehaviour {
     }
 
     protected virtual void LostHead() {
-        GameObject newHead = Instantiate(head);
-        newHead.transform.position = transform.position + headOffset;
-        Destroy(newHead, 3f);
+        //GameObject newHead = Instantiate(head);
+        //newHead.transform.position = transform.position + headOffset;
+        //Destroy(newHead, 3f);
         hasHead = false;
     }
 

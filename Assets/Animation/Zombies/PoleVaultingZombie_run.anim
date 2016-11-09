@@ -12,31 +12,30 @@ AnimationClip:
   m_UseHighQualityCurve: 1
   m_RotationCurves: []
   m_CompressedRotationCurves: []
+  m_EulerCurves: []
   m_PositionCurves: []
   m_ScaleCurves: []
   m_FloatCurves: []
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 21300000, guid: 6f6bf9bb3540fd349a7667cacabe5583, type: 3}
-    - time: .100000001
-      value: {fileID: 21300000, guid: 99158f1a2e3301d46b04d1f8e4c4a273, type: 3}
-    - time: .200000003
-      value: {fileID: 21300000, guid: 92d29452ac0efed4480c0f1694683c30, type: 3}
-    - time: .300000012
-      value: {fileID: 21300000, guid: e519ffa6973c73c4e80d22577d0d0256, type: 3}
-    - time: .400000006
-      value: {fileID: 21300000, guid: f48799cc622ff3640afbf2d38852ae38, type: 3}
-    - time: .5
-      value: {fileID: 21300000, guid: a6b8069fb10159a4489efee3374bc9e9, type: 3}
-    - time: .600000024
-      value: {fileID: 21300000, guid: b752fcf49520dd54da47c6a3e70dcd11, type: 3}
-    - time: .699999988
-      value: {fileID: 21300000, guid: dc89d2a042476884b80d1ec5a0fe5ccb, type: 3}
-    - time: .800000012
-      value: {fileID: 21300000, guid: d2142a283a7c19948ba3fb4ee9a06203, type: 3}
-    - time: .899999976
-      value: {fileID: 21300000, guid: a2eb9fd38fa177846ab29526ba608629, type: 3}
+      value: {fileID: 21300000, guid: 88a7a9840ec169f48a10cd435cb23f65, type: 3}
+    - time: 0.1
+      value: {fileID: 21300002, guid: 88a7a9840ec169f48a10cd435cb23f65, type: 3}
+    - time: 0.2
+      value: {fileID: 21300004, guid: 88a7a9840ec169f48a10cd435cb23f65, type: 3}
+    - time: 0.3
+      value: {fileID: 21300006, guid: 88a7a9840ec169f48a10cd435cb23f65, type: 3}
+    - time: 0.4
+      value: {fileID: 21300008, guid: 88a7a9840ec169f48a10cd435cb23f65, type: 3}
+    - time: 0.5
+      value: {fileID: 21300010, guid: 88a7a9840ec169f48a10cd435cb23f65, type: 3}
+    - time: 0.6
+      value: {fileID: 21300012, guid: 88a7a9840ec169f48a10cd435cb23f65, type: 3}
+    - time: 0.7
+      value: {fileID: 21300014, guid: 88a7a9840ec169f48a10cd435cb23f65, type: 3}
+    - time: 0.8
+      value: {fileID: 21300016, guid: 88a7a9840ec169f48a10cd435cb23f65, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -55,23 +54,25 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: 21300000, guid: 6f6bf9bb3540fd349a7667cacabe5583, type: 3}
-    - {fileID: 21300000, guid: 99158f1a2e3301d46b04d1f8e4c4a273, type: 3}
-    - {fileID: 21300000, guid: 92d29452ac0efed4480c0f1694683c30, type: 3}
-    - {fileID: 21300000, guid: e519ffa6973c73c4e80d22577d0d0256, type: 3}
-    - {fileID: 21300000, guid: f48799cc622ff3640afbf2d38852ae38, type: 3}
-    - {fileID: 21300000, guid: a6b8069fb10159a4489efee3374bc9e9, type: 3}
-    - {fileID: 21300000, guid: b752fcf49520dd54da47c6a3e70dcd11, type: 3}
-    - {fileID: 21300000, guid: dc89d2a042476884b80d1ec5a0fe5ccb, type: 3}
-    - {fileID: 21300000, guid: d2142a283a7c19948ba3fb4ee9a06203, type: 3}
-    - {fileID: 21300000, guid: a2eb9fd38fa177846ab29526ba608629, type: 3}
+    - {fileID: 21300000, guid: 88a7a9840ec169f48a10cd435cb23f65, type: 3}
+    - {fileID: 21300002, guid: 88a7a9840ec169f48a10cd435cb23f65, type: 3}
+    - {fileID: 21300004, guid: 88a7a9840ec169f48a10cd435cb23f65, type: 3}
+    - {fileID: 21300006, guid: 88a7a9840ec169f48a10cd435cb23f65, type: 3}
+    - {fileID: 21300008, guid: 88a7a9840ec169f48a10cd435cb23f65, type: 3}
+    - {fileID: 21300010, guid: 88a7a9840ec169f48a10cd435cb23f65, type: 3}
+    - {fileID: 21300012, guid: 88a7a9840ec169f48a10cd435cb23f65, type: 3}
+    - {fileID: 21300014, guid: 88a7a9840ec169f48a10cd435cb23f65, type: 3}
+    - {fileID: 21300016, guid: 88a7a9840ec169f48a10cd435cb23f65, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 1
+    m_StopTime: 0.90000004
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
     m_LoopTime: 1
     m_LoopBlend: 0
     m_LoopBlendOrientation: 0
