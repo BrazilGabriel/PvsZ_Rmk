@@ -24,12 +24,12 @@ public class CardDescription : MonoBehaviour {
         string desc = description;
         float height = 90f;
         if ((card.state & Card.State.NO_SUN) != 0) {
-            desc += "\n<color=red>阳光不足</color>";
+            desc += "\n<color=red>Not enough energy!</color>";
             height += 20;
         }
             
         if ((card.state & Card.State.CD) != 0) {
-            desc += "\n<color=yellow>冷却中...</color>";
+            desc += "\n<color=yellow>Recharging...</color>";
             height += 20;
         }
 

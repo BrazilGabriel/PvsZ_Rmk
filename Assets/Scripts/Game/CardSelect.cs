@@ -82,12 +82,12 @@ public class CardSelect : MonoBehaviour {
         float width = 70f, height = 35f;
         Vector3 pos = Camera.main.WorldToScreenPoint(transform.position);
         if (GUI.Button(new Rect(pos.x - xOff - width / 2, pos.y + yOff - height / 2, width, height),
-            "提交")) {
+            "Submit")) {
                 Submit();
         }
 
         if (GUI.Button(new Rect(pos.x + xOff - width / 2, pos.y + yOff - height / 2, width, height),
-            "重置")) {
+            "Reset")) {
                 Reset();
         }
     }

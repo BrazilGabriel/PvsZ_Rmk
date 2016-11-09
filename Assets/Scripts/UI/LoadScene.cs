@@ -53,7 +53,7 @@ public class LoadScene : MonoBehaviour {
         async.allowSceneActivation = false;
         yield return StartCoroutine(Loading());
 
-        text.text = "开始游戏";
+        text.text = "Start";
         button.enabled = true;
     }
 

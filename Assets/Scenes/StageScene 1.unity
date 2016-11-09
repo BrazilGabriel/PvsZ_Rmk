@@ -282,7 +282,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u6682\u505C\u6E38\u620F"
+  m_Text: Pause
 --- !u!222 &38122595
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -356,7 +356,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u97F3\u4E50"
+  m_Text: Music
 --- !u!222 &42587654
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -683,7 +683,7 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 152621073}
-  m_Text: "\u8BF7\u9009\u62E9\u60A8\u7684\u690D\u7269,\u6700\u5927\u6570\u91CF: "
+  m_Text: 'Select your troops! Max: '
   m_OffsetZ: 0
   m_CharacterSize: 0.1
   m_LineSpacing: 1
@@ -1857,7 +1857,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u97F3\u6548"
+  m_Text: SFX
 --- !u!222 &766131168
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2037,7 +2037,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u83DC\u5355"
+  m_Text: Menu
 --- !u!222 &808763896
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2502,7 +2502,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u56DE\u5230\u6E38\u620F"
+  m_Text: Back
 --- !u!222 &1120049194
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4071,7 +4071,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u91CD\u65B0\u5F00\u59CB\u5173\u5361"
+  m_Text: Restart
 --- !u!222 &1688033945
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4141,8 +4141,8 @@ MonoBehaviour:
   sunLabel: {fileID: 1366379113}
   shovelBg: {fileID: 692728839}
   sunPrefab: {fileID: 177390, guid: 526930a141617de45b8a853b0f9207c4, type: 2}
-  sunInterval: 20
-  initSun: 50
+  sunInterval: 10
+  initSun: 100
   inDay: 1
   nextStage: StageScene 2
   waves:
@@ -4496,7 +4496,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u8FD4\u56DE\u4E3B\u754C\u9762"
+  m_Text: Home
 --- !u!222 &1997788298
 CanvasRenderer:
   m_ObjectHideFlags: 0

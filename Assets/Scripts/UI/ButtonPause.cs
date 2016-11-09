@@ -13,7 +13,7 @@ public class ButtonPause : MonoBehaviour {
     }
 	
 	public void OnClick () {
-        if ("暂停游戏" == text.text) {
+        if ("Pause" == text.text) {
             pauseGame();
         } else {
             resumeGame();
@@ -21,7 +21,7 @@ public class ButtonPause : MonoBehaviour {
 	}
 
     public void pauseGame() {
-        text.text = "继续游戏";
+        text.text = "Resume";
         am.PauseAllSounds();
         am.PlaySound(pauseSound);
         Time.timeScale = 0;
@@ -29,7 +29,7 @@ public class ButtonPause : MonoBehaviour {
     }
 
     public void resumeGame() {
-        text.text = "暂停游戏";
+        text.text = "Pause";
         Time.timeScale = 1;
         am.ResumeAllSounds();
         am.PlaySound(pauseSound);
